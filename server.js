@@ -39,6 +39,10 @@ require('./app/routes/encounters.route.js')(app);
 require('./app/routes/careplans.routes.js')(app);
 
 // listen for requests
-app.listen(3000, () => {
-    console.log("Server is listening on http://localhost:3000");
-});
+const port = process.env.PORT || 3000;
+app.listen(port);
+
+
+// app.listen(3000, () => {
+//     console.log("Server is listening on http://localhost:3000");
+// });
