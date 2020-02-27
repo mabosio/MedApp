@@ -1,0 +1,37 @@
+AU	Auricular (Otic); administration to or by way of the ear.
+BUC	Buccal; referring to the inside lining of the cheeks and is part of the lining mucosa.
+EPI	Epidural; administration upon or over the dura mater.
+IA	Intra-arterial; administration within an artery or arteries.
+IART	Intra-articular; administration within a joint.
+ICAR	Intracardiac; administration with the heart.
+IDUC	Intraductal; administration within the duct of a gland.
+IFOL	Intrafollicular; administered within the follicle.
+IGAS	Intragastric; administration within the stomach.
+ILES	Intralesional; administration within or introduced directly into a localized lesion.
+IM	Intramuscular; administration within a muscle.
+IMAM	Intramammary; administered within the teat canal.
+IMRS	Immersion; administered by immersing completely in solution.
+INF	Infiltration; administered in a diffuse pattern to multiple sites.
+INH	Respiratory (Inhalation); administration within the respiratory tract by inhaling orally or nasally for local or systemic effect.
+IP	Intraperitoneal; administration within the peritoneal cavity.
+ISIN	Intrasinal; administration within the nasal or periorbital sinuses.
+ISYN	Intrasynovial; administration within the synovial cavity of a joint.
+IT	Intrathecal; administration within the cerebrospinal fluid at any level of the cerebrospinal axis, including injection into the cerebral ventricles.
+ITES	Intratesticular; administration within the testicle.
+IU	Intrauterine; administration within the uterus.
+IV	Intravenous; administration within or into a vein or veins.
+IVES	Intravesical; administration within the bladder.
+NAS	Nasal; administration to the nose; administered by way of the nose.
+NG	Nasogastric; administration through the nose and into the stomach, usually by means of a tube.
+OU	Ophthalmic; administration to the external eye.
+PAR	Parenteral; administration by injection, infusion, or implantation.
+PNEU	Perineural; administration surrounding a nerve or nerves.
+PO	Oral; administration to or by way of the mouth.
+PV	Vaginal; administration into the vagina.
+REC	Rectal; administration to the rectum.
+SC	Subcutaneous; administration beneath the skin; hypodermic. Synonymous with the term SUBDERMAL.
+SCi	Subcutaneous Implant; administered by placing under the skin.
+SL	Sublingual; administration beneath the tongue.
+TOP	Topical; administration to a particular spot on the outer surface of the body.
+TOPp	Topical, Pour On; administered to the skin by pouring liquid over the back.
+TD	Transdermal; administered through the dermal layer of the skin.

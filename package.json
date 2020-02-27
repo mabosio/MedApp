@@ -1,0 +1,23 @@
+{
+  "name": "med_app",
+  "version": "1.0.0",
+  "description": "service layer and a database model for a simple medical institution",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Medapp"
+  ],
+  "author": "Alejandra",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.0"
+  }
+}
